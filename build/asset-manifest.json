@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.1dc05bc2.css",
-    "main.js": "/static/js/main.7603c0eb.js",
-    "index.html": "/index.html",
-    "main.1dc05bc2.css.map": "/static/css/main.1dc05bc2.css.map",
-    "main.7603c0eb.js.map": "/static/js/main.7603c0eb.js.map"
+    "main.css": "/Linear-Regression-Visualizer/static/css/main.1dc05bc2.css",
+    "main.js": "/Linear-Regression-Visualizer/static/js/main.7603c0eb.js",
+    "index.html": "/Linear-Regression-Visualizer/index.html",
+    "main.1dc05bc2.css.map": "/Linear-Regression-Visualizer/static/css/main.1dc05bc2.css.map",
+    "main.7603c0eb.js.map": "/Linear-Regression-Visualizer/static/js/main.7603c0eb.js.map"
   },
   "entrypoints": [
     "static/css/main.1dc05bc2.css",
