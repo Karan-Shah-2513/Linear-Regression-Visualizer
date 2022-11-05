@@ -1,0 +1,2 @@
+.item,ul{display:flex;justify-content:center}ul{list-style-type:disc;margin:1em 0;padding-left:40px}li{word-wrap:break-word;margin:1rem;padding:.5rem}@media only screen and (max-width:600px){body{font-size:larger}ul{display:inline}}
+/*# sourceMappingURL=main.1dc05bc2.css.map*/
